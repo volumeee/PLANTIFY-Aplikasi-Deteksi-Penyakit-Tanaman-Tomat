@@ -23,7 +23,7 @@ Proyek ini menggunakan framework React Native, yang memungkinkan pengembangan ap
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/volumeee/PLANTIFY-Aplikasi-Deteksi-Penyakit-Tanaman-Tomat.git
 
 2. Masuk direktori proyek:
    ```bash
