@@ -5,7 +5,7 @@ Proyek ini merupakan aplikasi pengelolaan catatan sederhana yang dikembangkan me
 
 ## Screenshots
 
-![App Screenshot](https://github.com/volumeee/PLANTIFY-Aplikasi-Deteksi-Penyakit-Tanaman-Tomat/blob/3bec735de777fac137c047348e55c910fe2e1720/run.gif)
+<img src="https://github.com/volumeee/PLANTIFY-Aplikasi-Deteksi-Penyakit-Tanaman-Tomat/blob/3bec735de777fac137c047348e55c910fe2e1720/run.gif" alt="App Screenshot" width="350" height="800">
 
 
 ## Instalasi
